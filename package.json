@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://HarimJung.github.io/Visualclimate.org",
+  "homepage": "https://www.visualclimate.org",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,6 +16,7 @@
     "lucide-react": "^0.562.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
+    "react-is": "^19.2.3",
     "recharts": "^3.6.0"
   },
   "devDependencies": {
